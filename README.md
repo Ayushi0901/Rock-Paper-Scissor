@@ -17,7 +17,7 @@ Keeps score</li>
 <li>Displays a winner for every round</li>
 </ul>
 
-<p>Click here To play --></p> <a href="https://ayushi1309.github.io/The-Rock-Paper-Scissor-Game/rps.html">Play</a>
+<p>Click here To play --></p> <a href="rps.html">Play</a>
 
 *you can also play this game on your phone too*
 
