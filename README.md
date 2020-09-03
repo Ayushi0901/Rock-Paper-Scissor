@@ -18,7 +18,7 @@ Keeps score</li>
 </ul>
 
 <p>Click here To play --></p>
-https://ayushi1309.github.io/The-Rock-Paper-Scissor-Game/rps.html
+<a href="https://ayushi1309.github.io/The-Rock-Paper-Scissor-Game/rps.html">Play</a>
 
 *you can also play this game on your phone too*
 
